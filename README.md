@@ -13,9 +13,10 @@ npm install
 * Weather API [OpenWeatherMap](https://openweathermap.org/)
 
 To run the Express server:
+
 ```sh
 # to run from terminal
-npm start
+npm run start
 ```
 
 * The server will be available at `http://localhost:3000/`
